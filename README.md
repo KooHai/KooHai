@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KooHai
-- 👀 I’m interested in Web Programming
+- 👀 I’m interested in Web Programming and FrontEnd Programming
 - 🌱 I’m currently learning React Js and many other about Programming world
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/KooHai
